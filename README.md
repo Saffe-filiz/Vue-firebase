@@ -1,6 +1,18 @@
 # vue-form
 
 > A Vue.js project
+ Firabase and Vue js
+-Firebase Realtime Database
+-firebase Auth 
+-Login Page
+-Sign up page
+-Forgot Password Page
+-User Page
+-User Notifications
+-Like and follow
+
+
+
 
 ## Build Setup
 
