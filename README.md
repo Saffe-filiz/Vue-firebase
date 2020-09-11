@@ -1,10 +1,10 @@
 # vue-form
 
-> A Vue.js project<br>
- Firabase and Vue js<br>
--Firebase Realtime Database
--firebase Auth 
--Login Page
+> A Vue.js project
+ #Firabase and Vue js<br>
+#-Firebase Realtime Database
+#-firebase Auth 
+#-Login Page
 -Sign up page
 -Forgot Password Page
 -User Page
