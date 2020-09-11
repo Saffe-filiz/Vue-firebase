@@ -1,0 +1,26 @@
+/* Follow Button Start */
+
+.follow {
+	position: absolute;
+	width: 70px;
+	height: 20px;
+	top: 185px;
+	left: 780px;
+}
+
+.follow button {
+	height: 35px;
+	width: 130px;
+	transition: 300ms;
+	background: #dfe6e9;
+}
+
+
+.follow button:hover {
+	background: #00cec9;
+}
+
+
+/* Follow Button End */
+
+

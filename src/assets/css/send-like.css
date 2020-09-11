@@ -1,0 +1,17 @@
+
+
+
+#like-icon {
+	position: relative;
+	float: left;
+	top: 25px;
+	cursor: pointer;
+}
+
+#like-icon p {
+	position: relative;
+	float: right;
+	top: 4px;
+	font-size: 17px;
+	padding-left: 10px;
+}

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.home {
+	width: 90%;
+	max-width: 650px;
+	min-height: 300px;
+	max-height: auto;
+	background-color: #30336b;
+	margin: 10% auto;
+	border-radius: 5px;
+	box-shadow: 0px 7px 46px 0px rgba(41, 53, 108, 0.45);
+	box-sizing: border-box;
+	padding-top: 50px;
+
+}

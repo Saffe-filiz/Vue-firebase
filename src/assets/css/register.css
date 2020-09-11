@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+/* Register Content Div */
+
+.register {
+	position: relative;
+	width: 100%;
+	display: block;
+	max-width: 520px;
+	height: 570px;
+	background-color: #1b2931;
+	margin: 0 auto;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	border-radius: 5px;
+	box-shadow: 0px 7px 46px 0px rgba(41, 53, 108, 0.45);
+}
+
+.register h2 {
+	position: absolute;
+	left: 42%;
+	top: 60px;
+	font-size: 25px;
+	color: #fff;
+
+}
+
+/* Register Content Div End */
+
+/*Register UserName */
+
+.register-username {
+	position: relative;
+	display: block;
+	top: 169px;
+	width: 90%;
+	max-width: 500px;
+	margin: auto;
+}
+
+.register-username p {
+	position: absolute;
+	justify-content: center;
+	width: 80%;
+	display: block;
+	left: 35px;
+	margin: 0 auto;
+	font-size: 17px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+.register-username input {
+	display: block;
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.register-username label {
+	position: absolute;
+	top: 10px;
+	left: 20px;
+}
+
+.register-username input:focus ~ label,
+.register-username input:valid ~ label {
+	position: absolute;
+	top: -10px;
+	font-size: 14px;
+	color: #219196;
+}
+
+/*Register UserName End*/
+
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+
+
+/*Register Email */
+.register-email {
+	position: relative;
+	display: block;
+	top: 215px;
+	width: 90%;
+	max-width: 500px;
+	margin: auto;
+
+}
+
+.register-email p {
+	position: absolute;
+	width: 90%;
+	display: block;
+	left: 35px;
+	margin: 0 auto;
+	font-size:17px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+.register-email input {
+	display: block;
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.register-email label {
+	position: absolute;
+	top: 10px;
+	left: 20px;
+}
+
+
+.register-email input:focus ~ label,
+.register-email input:valid ~ label {
+	position: absolute;
+	top: -10px;
+	font-size: 14px;
+	color: #219196;
+}
+
+/*Register Email End*/
+
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+
+/*Register Password */
+
+.register-password {
+	position: relative;
+	display: block;
+	top: 260px;
+	width: 90%;
+	max-width: 500px;
+	margin: auto;
+}
+
+.register-password img {
+	margin-left: -10px;
+	margin-top: -2px;
+}
+
+.register-password p {
+	position: absolute;
+	width: 80%;
+	display: block;
+	left: 35px;
+	margin: 0 auto;
+	font-size:17px;
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+
+.register-password input {
+	display: block;
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.register-password label {
+	position: absolute;
+	top: 10px;
+	left: 20px;
+}
+
+.register-password input:focus ~ label,
+.register-password input:valid ~ label {
+	position: absolute;
+	top: -10px;
+	font-size: 14px;
+	color: #219196;
+}
+
+.register-password img {
+	position: absolute;
+	left: 415px;
+	top: 10px;
+}
+
+
+/*Register Password End*/
+
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/
+
+/*Register Button */
+
+
+.send-button {
+	position: relative;
+	display: block;
+	top: 335px;
+	margin: 0 auto;
+}
+
+.send-button button {
+	display: block;
+	padding: 10px 50px;
+	margin: 0 auto;
+}
+
+
+/*Register Button End */
+
+/*///////////////////////////////////////*/
+/*///////////////////////////////////////*/

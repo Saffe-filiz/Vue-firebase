@@ -1,0 +1,56 @@
+
+
+/* New Post Button Start */
+
+#post-button {
+	position: fixed;
+	width: 70px;
+	height: 70px;
+	float: right;
+	right: 220px;
+	bottom: 170px;
+	border-radius: 35px;
+	z-index: 1;
+	background: #130f40;
+	box-shadow: 0px 7px 46px 0px rgba(41, 53, 108, 0.45);
+	transition: 300ms;
+}
+
+#post-button:hover {
+	box-shadow: 0px 7px 46px 0px #c44569;
+}
+
+/* New Post Button End*/
+
+/*///////////////////////*/
+/*//////////////////////*/
+
+/* Text Area Start */
+.post-textarea {
+	position: fixed;
+	width: 420px;
+	height: 250px;
+	top: 150px;
+	left: 35%;
+	border-radius: 5px;
+	background-color: #1b2931;
+	justify-content: center;
+}
+
+
+.post-textarea textarea {
+	width: 90%;
+	height: 100px;
+	margin: 70px 20px;
+	outline: none;
+	border: none;
+	resize: none;
+	padding-left: 5px;
+}
+
+.post-textarea button {
+	position: relative;
+	top: -50px;
+	padding: 10px 20px;
+
+}

@@ -1,0 +1,22 @@
+
+/* Follower Main Div Start */
+
+
+/* Follower And Follow Counter */
+
+.follower-list {
+	position: relative;
+	left: 100px;
+	top: 60px;
+	font-size: 15px;
+	font-weight: bold;
+	width: auto;
+	height: auto;
+}
+
+.follower-list p {
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 15px;
+	padding-right: 10px;
+}

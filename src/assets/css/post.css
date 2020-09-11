@@ -1,0 +1,156 @@
+
+/* Post Contanier Start */
+.post-contanier {
+	position: relative;
+	display: block;
+	width: 95%;
+	max-width: 550px;
+	height: 155px;
+	background: #ffff;
+	margin: 0 auto;
+	top: 5%;
+	box-shadow: 0px 7px 46px 0px rgba(41, 53, 108, 0.45);
+	border-radius: 5px;
+	margin-bottom: 20px;
+	transition: 300ms;
+}
+
+/* Post Contanier End */
+
+/*//////////////////////////*/
+/*//////////////////////////*/
+
+/* Post Cart Content Start */
+
+.massage {
+	position: relative;
+	width: 75%;
+	height: 65%;
+	display: block;
+	top: 5px;
+	left: 100px;
+	padding: 0px 10px; 
+	word-wrap: break-word;
+}
+
+.massage h2,h4 {
+	padding-top: 10px;
+	display: inline-block;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+
+.massage p {
+	font-size: 17px;
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+.massage h4 {
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	color: #999;
+}
+
+/* Post Cart Content End */
+
+/*//////////////////////////*/
+/*//////////////////////////*/
+
+/* Post Cart User Content Start */
+
+.user-img img {
+	position: absolute;
+	float: left;
+	left: 20px;
+	top: 41.5px;
+}
+
+/* Post Cart User Content End*/
+
+/*//////////////////////////*/
+/*//////////////////////////*/
+
+/* Post Cart Icon Start */
+
+.like-and-comment-icon {
+	position: relative;
+	width: 150px;
+	height: 50px;
+	left: 109px;
+	bottom: 10px;
+	justify-content: center;
+}
+
+
+#post-delet-icon {
+	position: relative;
+	float: right;
+	padding-right: 30px;
+	bottom: 35px;
+}
+
+/* Post Cart Icon End */
+
+/*//////////////////////////*/
+/*//////////////////////////*/
+
+/* Post Remove Content Start */
+
+.removeCart {
+	position: fixed;
+	left: 40%;
+	top: 40%;
+	bottom: 50%;
+	width: 21%;
+	max-width: 284px;
+	height: 180px;
+	max-height: 173px;
+	background: #fff;
+	z-index: 2;
+	border-radius: 5px;
+}
+
+.removeCart p {
+	position: absolute;
+	width: 90%;
+	height: 20%;
+	margin: 0 auto;
+	top: 40px;
+	font-size: 17px;
+	display: inline-block;
+	text-align: center;
+	left: 15px;
+}
+
+.removeButton  {
+	position: relative;
+	width: 100%;
+	height: auto;
+	margin-left: 10px;
+	bottom: 20px;
+	top: 75%;
+}
+
+.removeButton button {
+	width: 130px;
+	height: 30px;
+	display: inline-block;
+	z-index: 1;
+	cursor: pointer;
+	transition: 300ms;
+	border-radius: 15px;
+}
+
+#deletButton {
+	background: #ff0000e0;
+}
+
+#cencelButton {
+	background: #03a9f4;
+}
+
+/* Post Remove Content End */
+
+/*//////////////////////////*/
+/*//////////////////////////*/
